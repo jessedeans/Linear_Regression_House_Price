@@ -1,4 +1,4 @@
-# Predicting Home Prices using Linear Regression
+# Predicting Home Prices Using Linear Regression
 This repository contains a notebook and datset used to build a pipeline of functions to run scikit-learn's linear regression model to predict a home's sale price.
 
 The pipeline will contain three main functions to quickly iterate on different models.
