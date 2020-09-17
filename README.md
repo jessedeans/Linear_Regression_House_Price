@@ -1,5 +1,5 @@
 # Predicting Home Prices Using Linear Regression
-This repository contains a notebook and datset used to build a pipeline of functions to run scikit-learn's linear regression model to predict a home's sale price.
+This repository contains a [notebook](https://github.com/jessedeans/Linear_Regression_House_Price/blob/master/Linear%20Regression%20Pipeline%20for%20House%20Price%20Prediction.ipynb) and datset used to build a pipeline of functions to run scikit-learn's linear regression model to predict a home's sale price.
 
 The pipeline contains three main functions to quickly iterate on different models.
 - `transform_features` function is for feature engineering
